@@ -21,9 +21,9 @@
 package jssdk
 
 import (
-	conversation "github.com/openimsdk/protocol/conversation"
-	relation "github.com/openimsdk/protocol/relation"
-	sdkws "github.com/openimsdk/protocol/sdkws"
+	conversation "github.com/vfriend/protocol/conversation"
+	relation "github.com/vfriend/protocol/relation"
+	sdkws "github.com/vfriend/protocol/sdkws"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
